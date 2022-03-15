@@ -34,3 +34,6 @@ let remove_duplicates=(a)=>
 let tab=[1,2,4,4,4,7,10,10,22,26,28,28,28];
 remove_duplicates(tab);
 console.log(tab);
+let sum=0;
+for(let i=0;i<=9;i++,sum+=i);
+ console.log(sum);
